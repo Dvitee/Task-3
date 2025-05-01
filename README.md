@@ -50,6 +50,3 @@ This project demonstrates how to implement and evaluate both simple and multiple
 - Scikit-learn (LinearRegression, model evaluation)
 
 ---
-
-## 📁 Project Structure
-
